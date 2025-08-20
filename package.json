@@ -1,0 +1,16 @@
+{
+  "name": "All-dwnld-api",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "yt-dlp-exec": "^1.0.2"
+  }
+}
